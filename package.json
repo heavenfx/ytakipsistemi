@@ -1,0 +1,13 @@
+{
+  "name": "yetkili-takip",
+  "version": "1.0.0",
+  "description": "Discord Yetkili Takip Sistemi (Selfbot & Webhook)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.6.0"
+  }
+}
+

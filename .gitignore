@@ -1,0 +1,11 @@
+# Bağımlılıklar (Asla GitHub'a yüklenmemeli)
+node_modules/
+
+# Orijinal temiz çalışan kod yedeği (Gizli kalmalı)
+index.clean.js
+
+# Çalışma zamanı ve log dosyaları
+cache.json
+logs.txt
+sunucular_listesi.txt
+.env

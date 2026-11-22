@@ -1,0 +1,14 @@
+{
+  "token": "BURAYA_YAN_HESAP_TOKENI_YAZIN",
+  "webhookUrl": "BURAYA_LOG_KANALININ_WEBHOOK_URL_YAZIN",
+  "checkIntervalSeconds": 30,
+  "targets": [
+    {
+      "guildId": "HEDEF_SUNUCU_ID_1",
+      "guildName": "Örnek Sunucu 1",
+      "roleIds": [
+        "HEDEF_YETKILI_ROL_ID_1"
+      ]
+    }
+  ]
+}
